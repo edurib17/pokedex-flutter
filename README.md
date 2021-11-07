@@ -1,16 +1,26 @@
-# meu_primeiro_app
+<h1 align="center">Pokedex Flutter</h1>
 
-A new Flutter project.
+<p align="center">
+  <a><img alt="Google" src="https://github.com/edurib17/pokedex-flutter/blob/master/lib/prints/home.png"/></a><br>
+  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="Pokemin" src="https://github.com/edurib17/pokedex-flutter/blob/master/lib/prints/pokemon01.png"/></a>
+  <a href="https://android-arsenal.com/api?level=21"><img alt="Pokemon" src="https://github.com/edurib17/pokedex-flutter/blob/master/lib/prints/pokemon02.png"/></a>
+</p>
 
-## Getting Started
+<p align="center">  
+Pokedex is a small demo app based on technology stacks of modern Android apps.
+This project is to focus especially on fetching data from the network and integrating persistent data into the database through the repository pattern.
+</p>
+</br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech stack & Open-source libraries
+- Minimum SDK level 21
+- [Flutter](https://flutter.dev/) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## API
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pokedex using the [PokeAPI](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json) for constructing RESTful API.<br>
+PokeAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
+
+
+
